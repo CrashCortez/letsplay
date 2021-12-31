@@ -4,7 +4,7 @@ zip="url.to.wizard"
 
 name="Let's Play"
 version="1.1.1"
-url="https://drive.google.com/u/0/uc?id=10dHcVQ5AqEX9QGe7-XxNpnfx7z8rNgUt&export=download"
+url="https://www.dropbox.com/s/rvz0yiuszehxh3i/letsplayv111.zip?dl=1"
 minor="http://"
 gui="http://your.guisettings.url/"
 kodi="17.6"
