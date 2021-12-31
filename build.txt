@@ -4,7 +4,7 @@ zip="https://github.com/CrashCortez/letsplay/files/7795746/plugin.program.letspl
 
 name="Let's Play"
 version="1.1.1"
-url="https://www.dropbox.com/s/rvz0yiuszehxh3i/letsplayv111.zip?dl=1"
+url="https://www.dropbox.com/s/hu1hb7g4b3mf40g/letsplayv111.zip?dl=1"
 minor="http://"
 gui="http://your.guisettings.url/"
 kodi="17.6"
