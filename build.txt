@@ -1,4 +1,4 @@
-id="plugin.program.letsplay"
+id="plugin.program.letsplay2"
 version="1.0.0"
 zip="https://github.com/CrashCortez/letsplay/files/7795746/plugin.program.letsplay.zip"
 
