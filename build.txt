@@ -16,7 +16,7 @@ adult="no"
 info="http://your.info.url"
 description="A Gaming Frontend."
 
-name=" Let's Play Test Build"
+name="Let's Play Test Build"
 version="1.1.0"
 url="https://www.dropbox.com/s/prfi20oswe8llg1/letsplay111.zip?dl=1"
 minor="http://"
