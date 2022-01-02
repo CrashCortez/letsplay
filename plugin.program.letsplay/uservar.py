@@ -12,9 +12,9 @@ BUILDFILE      = 'https://raw.githubusercontent.com/CrashCortez/letsplay/main/bu
 # 0 being every startup of kodi
 UPDATECHECK    = 0
 # Text File with apk info in it.
-APKFILE        = 'https://www.installer2.appboxes.co/textfiles/apk.txt'
+APKFILE        = 'http://'
 # Text File with Youtube Videos urls.  Leave as 'http://' to ignore
-YOUTUBETITLE   = ''
+YOUTUBETITLE   = 'http://'
 YOUTUBEFILE    = 'http://'
 # Text File for addon installer.  Leave as 'http://' to ignore
 ADDONFILE      = 'http://'
